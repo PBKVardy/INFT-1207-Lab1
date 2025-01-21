@@ -10,7 +10,6 @@ def gen_random_num(length):
 
 # Function that generates random letters, it will generate (length) amount of letters
 def gen_random_letter(length):
-    random_letter = ''
     letters = ''
     for i in range(length):
         random_letter = random.choice(string.ascii_letters)
@@ -19,7 +18,6 @@ def gen_random_letter(length):
 
 # Function that generates random special characters, it will generate (length) amount of letters
 def gen_random_special(length):
-    random_special = ''
     special = ''
     for i in range(length):
         random_special = random.choice(string.punctuation)
