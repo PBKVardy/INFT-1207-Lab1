@@ -9,6 +9,11 @@ special characters, letters, and numbers the user wants in the password.
 #### Date: 
 > January 22nd, 2025
 
+# Input/Output
+Input the length of the password
+Input the number of letters, numbers, and special characters
+Output the password to your specs
+
 # Execution
 run the program by typing `python3 src/password_generator.py` in the terminal
 
