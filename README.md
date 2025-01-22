@@ -3,12 +3,16 @@
 #### Group Names: Rehan Zaffar, Kyle Vardy
 
 #### Description:
->The password generator lab from INFT-1207.This program generates random passwords for the user taking user input for how many
-special characters, letters, and numbers the user wants in the password. 
+> The password generator lab from INFT-1207.This program generates random passwords for the user taking user input for how many
+special characters, letters, and numbers the user wants in the password.
 
 #### Date: 
 > January 22nd, 2025
 
+# Execution
+run the program by typing `python3 src/password_generator.py` in the terminal
+
+# Explanation
 There are 6 functions in the program:
 
 1. gen_random_num: This function is used to generate random numbers and puts it in a string array.
